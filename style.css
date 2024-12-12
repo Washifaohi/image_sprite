@@ -1,0 +1,15 @@
+#social {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: -102px 0px;
+    
+}
+
+
+#social:hover{
+    background-position: -102px -119px;
+    
+}
+
